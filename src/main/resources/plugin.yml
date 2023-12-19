@@ -1,0 +1,7 @@
+name: tabcompletetest
+version: '${project.version}'
+main: org.fantomrat.tabcompletetest.Tabcompletetest
+api-version: '1.20'
+commands:
+  xyucocieblan:
+    description: "хуй"
